@@ -1,2 +1,1 @@
-# Thanzizaman.github.io
-IT Support &amp; Network Infrastructure portfolio -pfsense, Network Troubleshooting, Excel reporting and hands-on IT Projects
+# Thanseehu Zaman P A ### IT Support Engineer | IT Administrator | Network & Infrastructure Support IT professional with 3 years of hands-on experience in technical support, network troubleshooting, firewall monitoring (pfSense), and CRM/data management. Prior work experience in Ajman, UAE. Currently studying CCNP Security. 📧 thnszaman@gmail.com | 📍 Bangalore, India | Open to relocation: UAE & Saudi Arabia  # and ### 
